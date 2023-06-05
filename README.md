@@ -13,7 +13,7 @@ To impress clients, you should always exceed expectations and improve the codeba
 
 Are you ready to begin? Here are this week's Challenge requirements.
 
-### User Story
+### User Story 
 
 ```
 AS A marketing agency
