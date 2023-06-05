@@ -1,4 +1,4 @@
-/* General CSS element selectors */
+/* General CSS selectors */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -59,6 +59,7 @@ main {
     margin-left: 20px;
 }
 
+/* SIDE BAR FORMATTING */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +103,7 @@ section {
     background-position: center;
 }
 
+/* RIGHT/LEFT IMAGE FLOATERS */
 .float-left {
     float: left;
     margin-right: 25px;

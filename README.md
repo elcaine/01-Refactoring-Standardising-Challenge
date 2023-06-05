@@ -1,4 +1,4 @@
-# CHALLENGE 
+# CHALLENGE -- Week 1 -- D. Caine Winters
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Assignment
