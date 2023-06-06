@@ -32,7 +32,7 @@ WHEN I view the title element
 ✔️THEN I find a concise, descriptive title
 ```
 Webpage still resembles the following image as initially provided.
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
 ### Technical Acceptance Criteria: 40%
 

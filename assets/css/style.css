@@ -85,7 +85,7 @@ section {
     color: #d9dcd6;
 }
 
-#nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -117,7 +117,7 @@ section {
     max-height: 200px;
 }
 
-.benefit {
+section-benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -128,7 +128,7 @@ section {
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
